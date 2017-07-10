@@ -1,0 +1,18 @@
+Assume an organization structure like below
+
+					Amdocs
+					  |
+			  -------------------------------------
+			  |		  |		      |
+	             Training Dept    HR Department       Finance Dept
+		          |
+	        ---------------------
+		|                   |
+	   Sr. Manager           Manager3 
+	     - Team Lead	     - Team Lead
+	         - Employee1             - Employee3
+	         - Employee2             - Employee4
+
+Assume similarly other departments has some org structure.  You need to print the 
+organization structure.
+	     
